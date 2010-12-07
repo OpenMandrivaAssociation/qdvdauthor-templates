@@ -1,6 +1,6 @@
 Name:		qdvdauthor-templates
 Version:	1.11.1
-Release:	%mkrel 1
+Release:	%mkrel 2
 Summary:	Optional menu templates for use with qdvdauthor
 License:	CC-BY-SA
 Group:		Video
