@@ -40,3 +40,15 @@ rm -rf %{buildroot}
 %defattr(644,root,root,755)
 %doc COPYING
 %{_datadir}/qdvdauthor/*
+
+
+%changelog
+* Tue Dec 07 2010 Oden Eriksson <oeriksson@mandriva.com> 1.11.1-2mdv2011.0
++ Revision: 614656
+- the mass rebuild of 2010.1 packages
+
+* Sun Feb 07 2010 Jérôme Brenier <incubusss@mandriva.org> 1.11.1-1mdv2010.1
++ Revision: 501843
+- import qdvdauthor-templates
+
+
