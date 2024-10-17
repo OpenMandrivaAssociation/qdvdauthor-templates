@@ -4,7 +4,7 @@ Release:	%mkrel 2
 Summary:	Optional menu templates for use with qdvdauthor
 License:	CC-BY-SA
 Group:		Video
-Url:		http://qdvdauthor.sourceforge.net/
+Url:		https://qdvdauthor.sourceforge.net/
 # Source0 extracted from the rpm available upstream, purged of duplicates with
 # the qdvdauthor package (plugins and silence.mp2), some filename encoding 
 # having been converted to utf8 using convmv -f latin1 -t utf8 --notest (buttons/Gel gruen/*) and recompressed using xz
